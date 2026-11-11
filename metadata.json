@@ -1,0 +1,7 @@
+{
+  "name": "Apotek Mawar Farma",
+  "description": "Sistem Kasir & Manajemen Stok Apotek Mawar Farma dengan pelacakan kadaluarsa otomatis dan katalog 200+ obat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
